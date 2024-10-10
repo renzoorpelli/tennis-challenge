@@ -3,7 +3,7 @@
 # Descripción  General
 El Proyecto es una API REST en .NET 8 que simula un torneo de tenis por modalidad de eliminación directa.
 
-# Ejecutar proyecto
+# ¿Cómo ejecutar el proyecto?
 1. Instalar **`Docker`**
 2. Instalar  **`Visual Studio 2022`**
 3. Ejecutar el proyecto en el perfil **`docker-compose`**
