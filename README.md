@@ -23,7 +23,7 @@ El proyecto segue los principios de  Clen Architecture, estructurándose en la s
     - Para generar una base de datos dummy para los test de integración, utilicé **`TestContainers`**.
 
 
-![alt text](architecture.png)
+![alt text](docs/architecture.png)
 
 
 # Documentación  de la API
