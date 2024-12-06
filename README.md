@@ -5,7 +5,7 @@ El Proyecto es una API REST en .NET 8 que simula un torneo de tenis por modalida
 
 # ¿Cómo ejecutar el proyecto?
 1. Instalar **`Docker`**
-2. Instalar  **`Visual Studio 2022`**
+2. Instalar  **`Visual Studio 2022  | Jetbrains Rider | NET 8 SDK + Editor de texto de preferencia`**
 3. Ejecutar el proyecto en el perfil **`docker-compose`**
     - En caso de ejecutar normalmente por perfil https, modificar el connection string en el archivo **`appsettings.Development.json`** y que la misma apunte al servidor de postgres deseado.
 
